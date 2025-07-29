@@ -2,15 +2,15 @@
 body {
     margin: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #f9cece;
     color: #333;
     line-height: 1.6;
 }
 
 /* ヘッダーのスタイル */
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #352727;
+    color: #ffe7e7;
     padding: 1rem 0;
     text-align: center;
 }
